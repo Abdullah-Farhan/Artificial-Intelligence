@@ -1,0 +1,13 @@
+1 - install opencv
+
+2.1 - For PyCharm: File -> settings -> Project: (project name) -> python interpreter -> + (install) -> opencv-python
+
+2.2 - Form Cmd promt: pip install opencv-python
+
+3 - Download the xml files used to teach what a face is from https://github.com/opencv/opencv/tree/master
+
+4 - Paste the haarcascade_frontalface_default.xml in the same location as the program
+
+5 - Save an image to be used for face Detection
+
+6 - Run the code
