@@ -2,7 +2,7 @@
 
 2.1 - For PyCharm: File -> settings -> Project: (project name) -> python interpreter -> + (install) -> opencv-python
 
-2.2 - Form Cmd promt: pip install opencv-python
+2.2 - Form Cmd prompt: pip install opencv-python
 
 3 - Download the xml files used to teach what a face is from https://github.com/opencv/opencv/tree/master
 
